@@ -1,0 +1,8 @@
+name: git_repo_server
+version: 0.1
+module: flask
+dependencies:
+  files:
+    - flask.py
+  requirements:
+    - flask==1.0.2
